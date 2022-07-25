@@ -27,7 +27,7 @@ To run individual tests:
 cd learning_exercises/01_hello_world/
 go test
 
-# to run all tests in specific folder:
+# to run all tests in specific folder with verbose flag:
 cd learning_exercises/01_hello_world/
 go test -v
 
