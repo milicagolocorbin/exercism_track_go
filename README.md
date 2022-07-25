@@ -4,8 +4,8 @@
 
 Problems are divided in two folders:
 
-1. `src/learning_exercises` - that explore specific Go features. Each exercise has separate folder with solution code file and test code file.
-2. `src/practice_exercises` - that reinforce what is learned by solving larger, more open-ended problems. Each exercise has separate folder with solution code file and test code file.
+1. `learning_exercises` - folder that explores specific Go features. Each exercise has separate folder with solution code file and test code file.
+2. `practice_exercises` - folder that reinforces what is learned by solving larger, more open-ended problems. Each exercise has separate folder with solution code file and test code file.
 
 ## Run Tests
 
